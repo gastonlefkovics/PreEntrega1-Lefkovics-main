@@ -1,0 +1,14 @@
+Componentes Funcionales
+
+-Importar react (import React from "react";)
+-Debe tener una funcion
+-El nombre de la funcion debe estar en mayusculas SIEMPRE
+-La funcion debe retornar algo(siempre deber ser un solo elemento padre)
+-Se debe exportar la funcion
+
+Componentes de clase
+
+-Props
+-States
+-Ciclo de vida
+-Metodo del ciclo de vida
